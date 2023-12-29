@@ -1,0 +1,23 @@
+
+
+[
+    
+    {
+      "color": "FFFF00",
+      "dopname": "UPDATE",
+      "maxonline": 50,
+      "name": "MARS",
+      "online": 0,
+      "ip": "141.95.234.17",
+      "port": 1505
+    },
+        {
+      "color": "FFFF00",
+      "dopname": "UPDATE",
+      "maxonline": 50,
+      "name": "TEST",
+      "online": 0,
+      "ip": "185.189.15.22",
+      "port": 4329
+    }
+ ]
